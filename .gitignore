@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+traffic_rl/
+env/
+venv/
+
+# SUMO outputs
+*.out.xml
+*.log
+
+# YOLO / RL outputs
+runs/
+output/
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
