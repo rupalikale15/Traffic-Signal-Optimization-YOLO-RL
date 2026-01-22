@@ -1,0 +1,8 @@
+sumo-rl
+stable-baselines3
+ultralytics
+opencv-python
+numpy<2
+torch
+tensorboard
+gymnasium
