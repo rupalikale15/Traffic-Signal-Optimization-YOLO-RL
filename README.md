@@ -133,10 +133,6 @@ Open browser at: [http://localhost:6006](http://localhost:6006)
 
 Key references include works by Li et al. (2016), Wei et al. (2018), Arel et al. (2010), and Van der Pol & Oliehoek (2016) on reinforcement learning-based traffic signal control.
 
-## 👨‍🎓 Academic Note
-
-This project was developed as part of a **10-credit academic research project**, following standard research methodology and software engineering practices.
-
 ## 🙏 Acknowledgment
 
 I would like to thank my project guide and institution for their guidance and support throughout this work.
